@@ -41,3 +41,5 @@ Ich konnte die Webseite über http://localhost öffnen.
 
 ### Webserver
 ![Webserver](webserver.png)
+### Befehle als Administrator
+![Admin Befehle](admin-befehle.png)
