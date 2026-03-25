@@ -25,17 +25,19 @@ sudo apt install apache2
 
 ## Ergebnis
 
-Der Webserver läuft erfolgreich.
+Der Webserver läuft lokal innerhalb einer virtuellen Maschine (VirtualBox).
 Ich konnte die Webseite über http://localhost öffnen.
 
 ## Screenshots
 
-### Installation
-![Installation](screenshots/install.png)
+### VirtualBox
+![VirtualBox](virtualbox.png)
 
-### Terminal<img width="1919" height="1074" alt="Virtual Maschine erstellen" src="https://github.com/user-attachments/assets/d9ce39ba-ef00-4bed-a1ae-448e216cf774" />
+### VM erstellen
+![VM](vm-erstellen.png)
 
-![Terminal](screenshots/terminal.png)
+### Ubuntu Installation
+![Ubuntu](ubuntu-install.png)
 
 ### Webserver
-![Webserver](screenshots/apache.png)
+![Webserver](webserver.png)
