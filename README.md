@@ -31,7 +31,7 @@ Ich konnte die Webseite über http://localhost öffnen.
 ## Screenshots
 
 ### Installation
-![Installation](screenshots/install.png)
+Ubuntu Server install.png
 
 ### Terminal
 ![Terminal](screenshots/terminal.png)
