@@ -31,9 +31,10 @@ Ich konnte die Webseite über http://localhost öffnen.
 ## Screenshots
 
 ### Installation
-Ubuntu Server install.png
+![Installation](screenshots/install.png)
 
-### Terminal
+### Terminal<img width="1919" height="1074" alt="Virtual Maschine erstellen" src="https://github.com/user-attachments/assets/d9ce39ba-ef00-4bed-a1ae-448e216cf774" />
+
 ![Terminal](screenshots/terminal.png)
 
 ### Webserver
