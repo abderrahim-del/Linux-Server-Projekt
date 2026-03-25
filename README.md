@@ -30,5 +30,11 @@ Ich konnte die Webseite über http://localhost öffnen.
 
 ## Screenshots
 
+### Installation
 ![Installation](screenshots/install.png)
-![Apache](screenshots/apache.png)
+
+### Terminal
+![Terminal](screenshots/terminal.png)
+
+### Webserver
+![Webserver](screenshots/apache.png)
